@@ -1,0 +1,3 @@
+[submodule "pvs2d"]
+	path = pvs2d
+	url = https://github.com/Laudanum-dev/pvs2d.git

@@ -13,4 +13,4 @@ target("demo")
         print(os.run("afterbuild.bat %s", target:targetdir()))
     end)
 
-includes("libpvs2d")
+includes("pvs2d")
