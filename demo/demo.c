@@ -313,7 +313,7 @@ int main() {
 	UnloadImage(chimg);
 	Model bunny = LoadModel("bnuyy.obj");
 	_bunny bunnys[3] = {
-		(_bunny){.bunny = bunny, .x = 0.5f, .y = -0.5f, .scale = 0.036f},
+		(_bunny){.bunny = bunny, .x = -2.5f, .y = 3.7f, .scale = 0.044f},
 		(_bunny){.bunny = bunny, .x = 1.2f, .y = 0.3f, .scale = 0.04f},
 		(_bunny){.bunny = bunny, .x = 2.3f, .y = 1.2f, .scale = 0.03f}
 	};
